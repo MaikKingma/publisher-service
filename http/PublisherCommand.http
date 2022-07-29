@@ -1,0 +1,11 @@
+POST /publishers/receiveBookOffer
+Host: localhost:8081
+Content-Type: application/json
+
+{
+  "publisherId": "dbcb02a1-c289-4b50-8911-3994f7b0b7f7",
+  "author": "Maik Kingma",
+  "title": "Cool Title"
+}
+
+###

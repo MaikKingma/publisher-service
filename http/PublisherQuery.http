@@ -1,0 +1,3 @@
+GET /publishers
+Host: localhost:8081
+Accept: application/json
