@@ -1,3 +1,9 @@
 GET /publishers
 Host: localhost:8081
 Accept: application/json
+
+###
+
+GET /publishers/5c942d6b-ad8e-4dac-8dff-49a9f76562c5
+Host: localhost:8081
+Accept: application/json
