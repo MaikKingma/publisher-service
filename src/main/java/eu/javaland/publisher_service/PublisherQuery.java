@@ -1,4 +1,4 @@
-package nl.codecentric.publisher_service;
+package eu.javaland.publisher_service;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

@@ -1,4 +1,4 @@
-package nl.codecentric.publisher_service;
+package eu.javaland.publisher_service;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

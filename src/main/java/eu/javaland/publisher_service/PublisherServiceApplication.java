@@ -1,4 +1,4 @@
-package nl.codecentric.publisher_service;
+package eu.javaland.publisher_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
